@@ -1,0 +1,47 @@
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\CapaClases.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\CapaFormularios.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\CapaClases.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\bin\Debug\CapaFormularios.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.CopyComplete
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaClases.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaFormularios.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaClases.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaFormularios.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.CopyComplete
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.FrmPrincipal.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.FrmInicio.resources
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.exe.config
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.exe
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\AppGestionTesis.pdb
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaClases.dll
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaFormularios.dll
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaClases.pdb
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\bin\Debug\CapaFormularios.pdb
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.AssemblyReference.cache
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.SuggestedBindingRedirects.cache
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.FrmInicio.resources
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.FrmPrincipal.resources
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.Properties.Resources.resources
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.GenerateResource.cache
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.CoreCompileInputs.cache
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.csproj.CopyComplete
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.exe
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\AppGestionTesis\obj\Debug\AppGestionTesis.pdb

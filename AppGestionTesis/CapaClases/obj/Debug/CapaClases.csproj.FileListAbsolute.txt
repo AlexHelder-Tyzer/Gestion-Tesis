@@ -1,0 +1,18 @@
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\CapaClases\bin\Debug\CapaClases.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\CapaClases\bin\Debug\CapaClases.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\CapaClases\obj\Debug\CapaClases.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\CapaClases\obj\Debug\CapaClases.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\CapaClases\obj\Debug\CapaClases.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\AppGestionTesis\CapaClases\obj\Debug\CapaClases.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\bin\Debug\CapaClases.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\bin\Debug\CapaClases.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.dll
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.pdb
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\bin\Debug\CapaClases.dll
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\bin\Debug\CapaClases.pdb
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.csproj.AssemblyReference.cache
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.csproj.CoreCompileInputs.cache
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.dll
+G:\DISCO D\SEMESTRE 2020-2\Desarrollo de software I\PROYECTO\Huancara.Ccolqque-QuispeYahuira-BustamantetFlores\AppGestionTesis\CapaClases\obj\Debug\CapaClases.pdb

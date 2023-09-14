@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7CD40E9-FFAE-4672-B9B9-8CC6C19C7A93}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaFormularios</RootNamespace>
+    <AssemblyName>CapaFormularios</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAsesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAsesor.Designer.cs">
+      <DependentUpon>FrmAsesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarRequisito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarRequisito.Designer.cs">
+      <DependentUpon>FrmBuscarRequisito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarTramite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarTramite.Designer.cs">
+      <DependentUpon>FrmBuscarTramite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDictamenTesis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDictamenTesis.Designer.cs">
+      <DependentUpon>FrmDictamenTesis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDictaminante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDictaminante.Designer.cs">
+      <DependentUpon>FrmDictaminante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDocente.Designer.cs">
+      <DependentUpon>FrmDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEvaluador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEvaluador.Designer.cs">
+      <DependentUpon>FrmEvaluador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExpedienteInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExpedienteInscripcion.Designer.cs">
+      <DependentUpon>FrmExpedienteInscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPadre.Designer.cs">
+      <DependentUpon>FrmPadre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRequisitos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRequisitos.Designer.cs">
+      <DependentUpon>FrmRequisitos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRequistosPorTramite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRequistosPorTramite.Designer.cs">
+      <DependentUpon>FrmRequistosPorTramite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRevisor.Designer.cs">
+      <DependentUpon>FrmRevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTesis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTesis.Designer.cs">
+      <DependentUpon>FrmTesis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTesista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTesista.Designer.cs">
+      <DependentUpon>FrmTesista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTramite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTramite.Designer.cs">
+      <DependentUpon>FrmTramite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaClases\CapaClases.csproj">
+      <Project>{c892ff4e-b1e9-4953-ba09-214eed0e5049}</Project>
+      <Name>CapaClases</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAsesor.resx">
+      <DependentUpon>FrmAsesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarRequisito.resx">
+      <DependentUpon>FrmBuscarRequisito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarTramite.resx">
+      <DependentUpon>FrmBuscarTramite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDictaminante.resx">
+      <DependentUpon>FrmDictaminante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDocente.resx">
+      <DependentUpon>FrmDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEvaluador.resx">
+      <DependentUpon>FrmEvaluador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExpedienteInscripcion.resx">
+      <DependentUpon>FrmExpedienteInscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPadre.resx">
+      <DependentUpon>FrmPadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRequisitos.resx">
+      <DependentUpon>FrmRequisitos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRequistosPorTramite.resx">
+      <DependentUpon>FrmRequistosPorTramite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRevisor.resx">
+      <DependentUpon>FrmRevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTesis.resx">
+      <DependentUpon>FrmTesis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTesista.resx">
+      <DependentUpon>FrmTesista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTramite.resx">
+      <DependentUpon>FrmTramite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
